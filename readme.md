@@ -1,4 +1,4 @@
-<img src="https://github.com/ojuniorbitencourt/numero-secreto/blob/main/img.jpg">
+<img src="https://github.com/ojuniorbitencourt/numero-secreto/blob/main/img/img.jpg">
 
 # Acerte o Número Secreto
 
